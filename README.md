@@ -5,6 +5,7 @@ CREATE IMAGE FROM COMMAND
 # INSTALLATION
 
 npm install 
+
 npm install -g  (to bind it globally)
 
 # USAGE
